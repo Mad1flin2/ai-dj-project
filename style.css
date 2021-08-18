@@ -1,0 +1,8 @@
+body{
+    background-color: black;
+    color: white;
+}
+.badColorButton{
+    color: black;
+    background-color: white;
+}
